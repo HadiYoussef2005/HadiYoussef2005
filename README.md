@@ -13,8 +13,8 @@ Feel free to connect with me on LinkedIn, always ready to chat about tech as a w
 
 ## Github Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HadiYoussef2005&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HadiYoussef2005)](https://git.io/streak-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HadiYoussef2005&layout=compact)
+<br>[![GitHub Streak](https://streak-stats.demolab.com/?user=HadiYoussef2005)](https://git.io/streak-stats)
+<br>![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HadiYoussef2005&layout=compact)
 <!--
 **HadiYoussef2005/HadiYoussef2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
