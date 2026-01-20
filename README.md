@@ -2,7 +2,7 @@
 I'm a Software Engineering and Honours Business Administration major at Western University/Ivey School of Business. I'm very interested in AI and backend development as a whole.
 
 ### What I'm working on:
-Currently, I'm working on building an SDK for Polymarket in Rust alongside a portfolio optimization bot utilizing reinforcement learning principles.
+Currently, I'm working on building an agentic e-commerce platform leveraging MCP and UCP alongside a portfolio optimization bot utilizing reinforcement learning principles.
 
 ### Socials:
 Feel free to connect with me on LinkedIn, always ready to chat about tech as a whole!
